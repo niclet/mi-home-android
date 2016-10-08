@@ -30,6 +30,9 @@ By default, when no plugin is available, the main application will download them
 MiHomePlugins
   110                          Mijia 360 identifier
     4095.apk                   Plugin for Mijia360
+110_strings.xml                Chinese template to translate
+MiHome_3.8.11_multi.apk        Modified MiHome application to install
+README.md                      This README file
 ````
 
 All you have to do is to copy the **MiHomePlugins** of this repository into your phone or tablet, and then, Mi Home should be translated :)
@@ -38,4 +41,10 @@ Available languages
 -------------------
 
 For now, there is no language available.
+
+I currently provide Chinese template for French and English translation. Each Chinese string is prefixed with a number to help "in context" translation.
+
 I will soon provide French and English, stay tuned :)
+
+If you want to help, you can translate **110_strings.xml** in any language you want, and I will integrate it.
+
