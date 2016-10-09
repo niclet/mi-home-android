@@ -3,6 +3,12 @@ mi-home-android project
 
 Special thanks go to https://xiaomi-miui.gr for inspiration. Also thank you to yAuMe, John.Doe, reggaemanu for their support and feedback.
 
+Update
+======
+2016-10-09	MiHome 3.9.5
+
+2016-10-07  MiHome 3.8.11
+
 Purpose
 =======
 
@@ -15,7 +21,7 @@ So I want to provide translation for the global application and plugins.
 Installation of Mi Home
 =======================
 
-I'm currently working on Mi Home 3.8.11.
+I'm currently working on Mi Home 3.9.5.
 
 The official application manages its plugins from protected storage which is only accessible from rooted devices.
 
@@ -31,7 +37,7 @@ MiHomePlugins
   110                          Mijia 360 identifier
     4095.apk                   Plugin for Mijia360
 110_strings.xml                Chinese template to translate
-MiHome_3.8.11_multi.apk        Modified MiHome application to install
+MiHome_3.9.5_multi.apk        Modified MiHome application to install
 README.md                      This README file
 ````
 
